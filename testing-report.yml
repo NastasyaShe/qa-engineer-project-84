@@ -7,34 +7,34 @@
      Успешное применение фильтров для поиска товара "Производитель" и "Цена"
   status: pass
 
-  - summary: |
+- summary: |
     Успешное оформление заказа
   status: pass
 
-  - summary: |
+- summary: |
     Успешная очистка коризны
   status: pass
 
-  - summary: |
+- summary: |
     Отображение информации о товаре
   status: pass
 
-  - summary: |
+- summary: |
     Поиск товара по ключевому слову и категории
   status: pass
 
-  - summary: |
+- summary: |
     Мультиязычность сайта 
   status: fail
 
- - summary: |
+- summary: |
    Корректное отображение товаров при пролистывании страниц
  status: fail
  
-   - summary: |
+- summary: |
     Добавление количества товара в корзину  большего, чем в наличии в корзину, невозможно 
   status: pass 
 
-  - summary: |
+- summary: |
     Работа фильтра "Цена" за пределами допустимого диапазона
  status: fail 
