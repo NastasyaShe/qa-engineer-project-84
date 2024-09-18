@@ -1,40 +1,40 @@
 ---
 - summary: |
     Успешное добавление товара в корзину
-  status: pass
+status: pass
 
 - summary: |
      Успешное применение фильтров для поиска товара "Производитель" и "Цена"
-  status: pass
+status: pass
 
 - summary: |
     Успешное оформление заказа
-  status: pass
+status: pass
 
 - summary: |
     Успешная очистка коризны
-  status: pass
+status: pass
 
 - summary: |
     Отображение информации о товаре
-  status: pass
+status: pass
 
 - summary: |
     Поиск товара по ключевому слову и категории
-  status: pass
+status: pass
 
 - summary: |
     Мультиязычность сайта 
-  status: fail
+status: fail
 
 - summary: |
    Корректное отображение товаров при пролистывании страниц
- status: fail
- 
+status: fail
+
 - summary: |
-    Добавление количества товара в корзину  большего, чем в наличии в корзину, невозможно 
-  status: pass 
+   Добавление количества товара в корзину  большего, чем в наличии в корзину, невозможно 
+status: pass 
 
 - summary: |
     Работа фильтра "Цена" за пределами допустимого диапазона
- status: fail 
+status: fail 
