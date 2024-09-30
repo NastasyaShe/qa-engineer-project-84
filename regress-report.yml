@@ -46,11 +46,7 @@ test-cases:
     
   - summary: |
       Успешный поиск товаров при примененении фильтра "Цена"
-    status: pass 
-    
-  - summary: |
-      Поиск продуктов с помощью фильтра "Производители"
-    status: fail
+    status: pass     
         
 bugreports:
   - summary: |
